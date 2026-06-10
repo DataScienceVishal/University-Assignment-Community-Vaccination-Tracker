@@ -1,0 +1,2 @@
+# No third-party dependencies.
+# This application uses only the Python 3 standard library (sqlite3 is built in).
