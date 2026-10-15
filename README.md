@@ -55,5 +55,5 @@ AI assistance was used in line with the assessment brief and is cited in the
 report using APA style.
 
 ## Author
-**Vishal Khan - Msc in AI and CS, Northeastern University**
-**Shubham Singh - Msc in AI and CS, Northeastern University**
+**Vishal Khan** ([@DataScienceVishal](https://github.com/DataScienceVishal)) - MSc in AI and CS, Northeastern University
+**Shubham Kumar Singh** ([@Shubham-afk-del](https://github.com/Shubham-afk-del)) - MSc in AI and CS, Northeastern University
